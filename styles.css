@@ -1,0 +1,48 @@
+#qrcode {
+  width: 150;
+  height: 150;
+  margin-top: 25;
+  display: flex;
+  justify-content: center;
+}
+.h {
+  display: block;
+  font-size: 1.17em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+  color: rgb(73, 71, 71);
+  text-align: center;
+}
+.h1 {
+  display: block;
+  font-size: 2.17em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+  color: rgb(37, 32, 32);
+  text-align: center;
+  font-style: oblique;
+}
+#inp {
+  display: flex;
+  justify-content: center;
+}
+input {
+  width: 100%;
+  padding: 10px 10px;
+  margin: 5px 0;
+  display: inline-block;
+  border: 1px solid rgb(212, 206, 206);
+  border-radius: 4px;
+  box-sizing: border-box;
+  justify-content: center;
+}
+
+body {
+  background-color: antiquewhite;
+}
